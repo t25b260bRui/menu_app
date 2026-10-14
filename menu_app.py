@@ -142,3 +142,4 @@ def main_page():
 
 if __name__ == "__main__":
     ui.run(title="MENU DAYS | 献立セット", host="127.0.0.1", port=8081, reload=False)
+    #a
